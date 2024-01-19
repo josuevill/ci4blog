@@ -1,6 +1,3 @@
-php spark serve                     - inicia el servidor
-php spark make:migrations nombre    - crea la tabla
-php spark migrate                   - migra los datos de la tabla a la db
-php spark make:model nombre         - crear el modelo
-php spark make:seeder nombre        - crear los datos a la tabla
-php spark make:seed nombre          - siembra los datos a la tabla en la db
+integracion de plantilla y creación de la página adminstrativa
+
+https://github.com/dropways/deskapp
